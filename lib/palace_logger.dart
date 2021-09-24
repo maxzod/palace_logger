@@ -1,6 +1,6 @@
 library palace_logger;
 
-export 'src/jwt_guard_base.dart';
+export 'src/entry.dart';
 
 import 'dart:async';
 import 'dart:io';
